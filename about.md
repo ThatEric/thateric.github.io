@@ -3,28 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a Web Developer that graduated with an MS in Electrical and Computer Engineering from UCSB.
+I originally was focused on working as an Electrical Engineer, but quickly fell in love with web development after I graduated.
+Right now I am interested in all forms of programming, but I focus mostly on web apps and mobile development in my free time.
+My most used languages are C#, TSQL, and JavaScript, but I have also built web apps with a wide variety of languages, frameworks, and databases.
+I love learning new languages and techniques so I'm always switching up my project tools.
+My current pet site is written in JavaScript using Node.js running on AWS storing it's data primarily in DynamoDB.
+My previous pet site was written in Python using Flask running on DigitalOcean and using PostgreSQL.
 
-There are currently two themes built on Poole:
+## School
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Major: Electrical engineering with an emphasis on control systems, signals, and circuit design.
