@@ -3,15 +3,32 @@ layout: page
 title: About
 ---
 
+## Summary
+Hi, I'm a full stack web developer that originally went to school for electrical engineering.
+I originally was focused on working as an engineer, but quickly fell in love with web development after I graduated.
+Right now I am interested in all forms of programming.
 
-I'm a Web Developer that graduated with an MS in Electrical and Computer Engineering from UCSB.
-I originally was focused on working as an Electrical Engineer, but quickly fell in love with web development after I graduated.
-Right now I am interested in all forms of programming, but I focus mostly on web apps and mobile development in my free time.
-My most used languages are C#, TSQL, and JavaScript, but I have also built web apps with a wide variety of languages, frameworks, and databases.
-I love learning new languages and techniques so I'm always switching up my project tools.
-My current pet site is written in JavaScript using Node.js running on AWS storing it's data primarily in DynamoDB.
-My previous pet site was written in Python using Flask running on DigitalOcean and using PostgreSQL.
+I have been called a coding hipster by coworkers because I really love following and implementing current programming 
+trends and frameworks. I generally work in the backend in SQL and C#, but I also really enjoy working in the front end, 
+particularly using React.js.
 
-## School
+My current pet project is written in JavaScript using Node.js running on AWS storing it's data primarily in DynamoDB.
+My previous personal projects were written in Python using Flask running on DigitalOcean and using PostgreSQL.
 
-Major: Electrical engineering with an emphasis on control systems, signals, and circuit design.
+## Education
+* M.S. Electrical and Computer Engineering from University of California, Santa Barbara 2009
+* B.S. Electrical Engineering from University of California, Irvine 2008
+
+## Backend Technologies
+
+* C#: Microsoft MVC, Microsoft Web Forms, Microsoft Web API
+* JavaScript: Node.js
+* Python: Flask
+
+## Frontend Technologies
+* JavaScript: Angular.js, Ext.js, jQuery, Knockout.js, React.js
+* CSS: Bootstrap
+
+## Databases
+* SQL: Microsoft SQL Server 2008+, MySQL, PostgreSQL
+* NOSQL: Amazon DynamoDB, Microsoft Azure Tables

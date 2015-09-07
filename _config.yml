@@ -9,6 +9,7 @@ title:               Eric Nord
 tagline:             'A Full Stack Web Developer'
 description:         'The personal site of Eric Nord'
 url:                 'http://thateric.github.io/'
+github:             'https://github.com/ThatEric/thateric.github.io'
 baseurl:             ''
 paginate:            5
 
